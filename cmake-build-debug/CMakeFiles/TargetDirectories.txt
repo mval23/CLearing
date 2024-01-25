@@ -1,0 +1,3 @@
+C:/Users/Maria/OneDrive - Universidad Nacional de Colombia/Documents/CodeProjects/CLearning/cmake-build-debug/CMakeFiles/CLearning.dir
+C:/Users/Maria/OneDrive - Universidad Nacional de Colombia/Documents/CodeProjects/CLearning/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Maria/OneDrive - Universidad Nacional de Colombia/Documents/CodeProjects/CLearning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
